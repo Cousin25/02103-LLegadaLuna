@@ -21,8 +21,7 @@ package org.japo.java.main;
  */
 public class Main {
 
-    
     public static void main(String[] args) {
-        System.out.printf("%02d/%02d/%04d%n",16,07,1969);
-    }    
+        System.out.printf("%02d/%02d/%04d%n", 16, 07, 1969);
+    }
 }
